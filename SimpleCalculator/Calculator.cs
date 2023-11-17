@@ -7,7 +7,7 @@ public class Calculator
     {
         try
         {
-            return firstNumber + secondNumber;  
+            return firstNumber + secondNumber+1;  
         }
         catch(Exception ex)
         {
